@@ -5,4 +5,4 @@ I'm passionate about DevOps/Cloud!
 - [che-beviamo](https://github.com/NeapolitanDevs/che-beviamo)
 
 ## 📚 Learning
-- [Going deeper with docker/kubernetes](https://github.com/techiescamp/kubernetes-learning-path)
+- [Going deeper with docker/kubernetes, giving this path a try](https://github.com/techiescamp/kubernetes-learning-path)
